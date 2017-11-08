@@ -70,5 +70,5 @@ nav a:hover {
 }
 
 #icebreakerheader a:hover {
-  text-shadow: 10px;
+  text-decoration: underline;
 }
